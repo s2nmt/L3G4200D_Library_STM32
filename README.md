@@ -7,4 +7,5 @@ This library helps you communicate with the L3G4200D gyro sensor, allowing you c
 
 
 **Author:** Minh Tuan.
+
 **Date:** October 12, 2024.
