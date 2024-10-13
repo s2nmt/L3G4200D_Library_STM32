@@ -1,0 +1,8 @@
+../Core/Src/L3G4200D.c:11:9:L3G4200D_Init	2
+../Core/Src/L3G4200D.c:40:9:L3G4200D_Read_Temperature	1
+../Core/Src/L3G4200D.c:46:6:L3G4200D_Read_Raw	2
+../Core/Src/L3G4200D.c:65:16:getScale	1
+../Core/Src/L3G4200D.c:70:18:getOdrBw	1
+../Core/Src/L3G4200D.c:75:6:setThreshold	3
+../Core/Src/L3G4200D.c:99:6:calibrate	3
+../Core/Src/L3G4200D.c:142:9:getThreshold	1

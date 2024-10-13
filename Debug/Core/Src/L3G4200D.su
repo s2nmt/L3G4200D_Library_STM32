@@ -1,0 +1,8 @@
+../Core/Src/L3G4200D.c:11:9:L3G4200D_Init	40	static
+../Core/Src/L3G4200D.c:40:9:L3G4200D_Read_Temperature	40	static
+../Core/Src/L3G4200D.c:46:6:L3G4200D_Read_Raw	48	static
+../Core/Src/L3G4200D.c:65:16:getScale	40	static
+../Core/Src/L3G4200D.c:70:18:getOdrBw	40	static
+../Core/Src/L3G4200D.c:75:6:setThreshold	16	static
+../Core/Src/L3G4200D.c:99:6:calibrate	56	static
+../Core/Src/L3G4200D.c:142:9:getThreshold	8	static
